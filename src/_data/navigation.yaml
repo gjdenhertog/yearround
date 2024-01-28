@@ -1,0 +1,8 @@
+---
+items:
+  - text: English user manual
+    url: "/en/user-manual"
+  - text: Deutsches Benutzerhandbuch
+    url: "/de/user-manual"
+  - text: Nederlandse handleiding
+    url: "/nl/user-manual"
